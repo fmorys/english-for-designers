@@ -12,10 +12,10 @@ I'd say that most of all, I find entertainment in worldbuilding. And I feel like
 ## Showcased projects
 
 ### Visual identities
-[Hraj s námi!] (https://www.morys.studio/portfolio-collections/my-portfolio/project-title-4-1-8de6e8-1)
+[Hraj s námi!](https://www.morys.studio/portfolio-collections/my-portfolio/project-title-4-1-8de6e8-1)
 
 Hraj s Námi! serves as a recruitment website for Eluvia, a company which provides IT solutions. The name directly translates to "Play with Us!" and the website mainly aims to provide info about the company and the team members. Since we're all supposed to "play together" in this context, I decided that a playing board figure would be the best element to use for the purposes of the website. I've used it as the basis for most of the 3D visuals on the website and we also have an ongoing arrangement - when there's a new employee joining the office, they can describe their playing board figure, pick which colors/accessories they like and I create that figure for use on the website.
 
-[Kreativní Česko] (https://www.morys.studio/portfolio-collections/my-portfolio/project-title-4-1)
+[Kreativní Česko](https://www.morys.studio/portfolio-collections/my-portfolio/project-title-4-1)
 
 Kreativní Česko (Creative Czechia) is a project managed by the Ministry of Culture, it includes communication platforms of Cultural and creative industries (KKO).
