@@ -18,4 +18,8 @@ Hraj s Námi! serves as a recruitment website for Eluvia, a company which provid
 
 [Kreativní Česko](https://www.morys.studio/portfolio-collections/my-portfolio/project-title-4-1)
 
-Kreativní Česko (Creative Czechia) is a project managed by the Ministry of Culture, it includes communication platforms of Cultural and creative industries (KKO).
+Kreativní Česko (Creative Czechia) is a project managed by the Ministry of Culture, it covers communication platforms for creative industries. My work on the project included creating the visual identity (with an included brand guide) and designing a UI kit for the website. Currently the main website is still a WIP and my design is only used for the web portal for Creative vouchers (a financial tool to help support the cooperation of small and medium-sized enterprises and providers of creative services.
+
+### 3D Work (mostly personal projects)
+
+![a 3D render of a stylized keyboard] (https://github.com/fmorys/english-for-designers/blob/main/KEYBOARD.png?raw=true) 
