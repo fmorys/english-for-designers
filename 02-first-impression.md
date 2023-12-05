@@ -20,6 +20,21 @@ Hraj s Námi! serves as a recruitment website for Eluvia, a company which provid
 
 Kreativní Česko (Creative Czechia) is a project managed by the Ministry of Culture, it covers communication platforms for creative industries. My work on the project included creating the visual identity (with an included brand guide) and designing a UI kit for the website. Currently the main website is still a WIP and my design is only used for the web portal for Creative vouchers (a financial tool to help support the cooperation of small and medium-sized enterprises and providers of creative services.
 
+[United Islands of Prague 2023](https://www.morys.studio/portfolio-collections/my-portfolio/project-title-2)
+
+My proposal for the visual identity of United Islands of Prague 2023 (a music festival). I focused mainly on higlighting unity, sustainability, friendship and tradition. I felt like a circle is a shape which represents all of these values quite well so I decided to go with linking multiple circles for the logo which I then incorporated into various parts of the whole identity.
+
+[Člověk v Tísni - AR filter](https://www.morys.studio/portfolio-collections/my-portfolio/project-title-4)
+
+An AR filter I created for the Christmas campaign of Skutečný dárek - a project managed by Člověk v Tísni (People in Need). It works as a random picker of gifts towards which people can donate.
+
 ### 3D Work (mostly personal projects)
 
+A part of a series of visuals made as a proposal for DDB FTW Prague.
 ![a 3D render of a stylized keyboard](https://github.com/fmorys/english-for-designers/blob/main/KEYBOARD.png?raw=true) 
+
+A test environment for a stylized sea water shader.
+![a 3D render of a night time scene of a glowing sci-fi machine on the sea shore](https://github.com/fmorys/english-for-designers/blob/main/Night.jpg?raw=true)
+
+A mock-up of the visual style for a 3D online experience showcasing brutalist buildings in Prague.
+![a 3D render of a map of Prague with glowing streets](https://github.com/fmorys/english-for-designers/blob/main/PRAGUE%20RENDER.png?raw=true)
