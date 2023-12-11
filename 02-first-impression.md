@@ -5,7 +5,9 @@ Hey, I'm Filip. I've started toying around with graphic design in circa 2014. Si
 
 Eversince I moved to Prague I've been mainly focusing on brand identites, websites and also a little bit of motion design. In addition to that, I've been doing digital art as a hobby in my spare time.
 
-Currently I'm finding my footing as a junior graphic designer at a gaming/esports-focused advertising agency. I think that videogames are an incredibly inspiring media precisely because of how much artistic talent and attention to detail goes into creating them, and even though videogame design is a completely different beast compared to advertising for videogames, I've been able to slowly find my way into learning Blender and doing some 3D work aswell.
+Currently I'm finding my footing as a junior graphic designer at a gaming/esports-focused advertising agency. I think that videogames are an incredibly inspiring media precisely because of how much artistic talent and attention to detail goes into creating them, and even though videogame design is a completely different beast compared to advertising for videogames, I've been able to slowly find my way into learning Blender and doing some 3D work during my time in the agency aswell.
+
+Right now I am mostly working on the visuals for my own racing game inspired by the "golden era" of racing videogames (the 90s and the 2000s), which also happens to be my bachelor's thesis subject. Rather than going for realism I'm trying to make the game heavily stylized, mostly because it requires less profficiency on the technical side of things and it lets the game shine through with it's own style. 
 
 I'd say that most of all, I find entertainment in worldbuilding. And I feel like that word encapsulates most of the work I do (or atleast the part which is really interesting for me). Be it a visual identity for a brand or a 3D environment, they both attempt to tell a complex story through visuals in an interesting way.
 
@@ -22,7 +24,7 @@ Kreativní Česko (Creative Czechia) is a project managed by the Ministry of Cul
 
 [United Islands of Prague 2023](https://www.morys.studio/portfolio-collections/my-portfolio/project-title-2)
 
-My proposal for the visual identity of United Islands of Prague 2023 (a music festival). I focused mainly on higlighting unity, sustainability, friendship and tradition. I felt like a circle is a shape which represents all of these values quite well so I decided to go with linking multiple circles for the logo which I then incorporated into various parts of the whole identity.
+My proposal for the visual identity of United Islands of Prague 2023 (a music festival). I focused mainly on higlighting unity, sustainability, friendship and tradition. I felt like a circle is a shape which represents all of these values quite well so I decided to go with linking multiple circles for the logo which I then incorporated into various parts of the whole identity. One of the ways I wanted to use this symbol was to show 
 
 [Člověk v Tísni - AR filter](https://www.morys.studio/portfolio-collections/my-portfolio/project-title-4)
 
@@ -38,3 +40,7 @@ A test environment for a stylized sea water shader.
 
 A mock-up of the visual style for a 3D online experience showcasing brutalist buildings in Prague.
 ![a 3D render of a map of Prague with glowing streets](https://github.com/fmorys/english-for-designers/blob/main/PRAGUE%20RENDER.png?raw=true)
+
+A part of another project in a similar style, this time it's a series of stylized prints of brutalist buildings in Prague.
+![a 3D render of a high-rise brutalist building](https://github.com/fmorys/english-for-designers/blob/main/CENTROTEXV2.png?raw=true)
+
